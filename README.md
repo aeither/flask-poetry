@@ -2,7 +2,7 @@
 
 ## 1-Click Deploy
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Die4Zz?referralCode=CREDITS)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/Die4Zz?referralCode=CREDITS&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## Overview
 

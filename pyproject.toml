@@ -4,12 +4,18 @@ version = "0.1.0"
 description = ""
 authors = ["aeither <36173828+aeither@users.noreply.github.com>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.11"
-flask = "^3.0.3"
-gunicorn = "^22.0.0"
+python = "^3.12"
+flask = "^3.1.2"
+gunicorn = "^25.0.3"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.2,<10.0.0)"
+]
